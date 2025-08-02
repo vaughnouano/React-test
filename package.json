@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages --dist https://vaughnouano.github.io/React-test"
+    "deploy": "gh-pages --dist build"
   },
   "dependencies": {
     "react": "^19.1.0",
