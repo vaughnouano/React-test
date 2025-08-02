@@ -1,8 +1,8 @@
 {
-  "homepage": "https://vaughnouano.github.io/React-test",
   "name": "practice-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://vaughnouano.github.io/React-test/",
   "type": "module",
   "scripts": {
     "dev": "vite",
